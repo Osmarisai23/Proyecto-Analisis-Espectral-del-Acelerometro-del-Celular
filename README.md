@@ -1,0 +1,1 @@
+# Proyecto-Analisis-Espectral-del-Acelerometro-del-Celular
